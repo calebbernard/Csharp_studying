@@ -1,0 +1,9 @@
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.Algorithms.resources
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.Properties.Resources.resources
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.GenerateResource.Cache
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+c:\users\caleb\documents\visual studio 2017\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
